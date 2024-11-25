@@ -1,0 +1,40 @@
+{
+  "UsuariosRegistrados": [
+    {
+      "id": "1",
+      "nombreUsuario": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "eventos": [
+        {
+          "eventoId": 101,
+          "nombreEvento": "Taller de Programación",
+          "fechaEvento": "2024-12-01"
+        }
+      ]
+    },
+    {
+      "id": "ec08",
+      "nombreUsuario": "juanito",
+      "email": "juanito@email.com",
+      "eventos": [
+        {
+          "eventoId": 1,
+          "nombreEvento": "Evento A",
+          "fechaEvento": "2024-12-01"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nombreUsuario": "juanito",
+      "email": "juanito@email.com",
+      "eventos": [
+        {
+          "eventoId": 1,
+          "nombreEvento": "Evento A",
+          "fechaEvento": "2024-12-01"
+        }
+      ]
+    }
+  ]
+}
